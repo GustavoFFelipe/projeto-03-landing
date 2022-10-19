@@ -1,0 +1,51 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+.navbar{
+    background: #2B4C7F;
+}
+h1{ 
+    font-family: 'Recursive', sans-serif;
+    color: #fff;
+    font-weight: 600;
+}
+.nav .nav-link.active{
+    background: #fff;
+    color: #2B4C7F;
+    fotn-family: 'Recursive', sans-serif;
+}
+.nav .nav-link{
+    color: #fff;
+}
+.nav-item{
+    font-size: .875rem;
+}
+.navbar-toggler{
+    background-color: #4B7BC5;
+}
+.carousel-item img{
+    width: 100vw;
+    height: 600px;
+}
+article .container{
+    margin
+}
+.col-md-5 img{
+    width: 100%;
+}
+.col-md-7  h2,
+.col-md-7  h3{
+    font-family: "Recursive", cursive;
+    font-size: 1.5rem;
+}
+.col-md-7  p{
+    font-size: .875rem;
+}
+.col-md-7  ul li{
+    font-size: .875rem;
+}
+.col-md-7  span{
+    font-family: 'Recursive', cursive;
+    color: #2B4C7F;
+}
